@@ -368,9 +368,9 @@ Business cities drive stable weekday revenue while tourism cities fuel weekend a
 
 ---
 
-## Business Request - 1: City-Level Fare and Trip Summary Report
+# Business Request - 1: City-Level Fare and Trip Summary Report
 
-*Generate a report that displays the total trips, average fare per km, average fare per trip, and the percentage contribution of each city's trips to the overall trips. This report will help in assessing trip volume, pricing efficiency, and each city's contribution to the overall trip count.
+* Generate a report that displays the total trips, average fare per km, average fare per trip, and the percentage contribution of each city's trips to the overall   trips. This report will help in assessing trip volume, pricing efficiency, and each city's contribution to the overall trip count.
 
 ---
 
