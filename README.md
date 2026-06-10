@@ -384,31 +384,33 @@ Click Here to view the dashboard: [GoodCabs Live Dashboard](https://app.powerbi.
 
 ## Data Model View
 
-![Data Model](images /Data Model.png)
+![Data Model](Images /Data_Model.png)
 
 ---
 
 ## Home Page View
 
-![Home Page](images /Home_page.png)
+![Home Page](Images /Home_page.png)
 
 ---
 
 ## Trips View
 
-![Trips View](images/trips_view.png)
+![Trips View](Images /Trip_view.png)
 
 ---
 
 ## Passenger View
 
-![Passenger View](images/passenger_view.png)
+![Passenger View](Images /Passenger_view.png)
 
 ---
 
 ## Target View
 
-![Target View](images/target_view.png)
+![Target View](Images /Target_view.png)
+
+---
 
 # 🛠️ Tools Used
 
