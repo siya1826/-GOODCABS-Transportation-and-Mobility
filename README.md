@@ -445,7 +445,7 @@ Business cities drive stable weekday revenue while tourism cities fuel weekend a
 
 2.Highest and Lowest Repeat Passenger Rate (RPR%) by City and Month By City: Analyse the Repeat Passenger Rate (RPR%) for each city across the six-month period. Identify the top 2 and bottom 2 cities based on their RPR% to determine which locations have the strongest and weakest rates.
 
-By Month: Similarly, analyse the RPR% by month across all cities and identify the months with the highest and lowest repeat passenger rates.
+  * By Month: Similarly, analyse the RPR% by month across all cities and identify the months with the highest and lowest repeat passenger rates.
    
   ![](Images/top_3_city_by_repeat_passenger%.png)
   ![](Images/bottom_3_city_by_repeat_passenger_%.png)
