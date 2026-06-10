@@ -372,7 +372,8 @@ Business cities drive stable weekday revenue while tourism cities fuel weekend a
 
 * Generate a report that displays the total trips, average fare per km, average fare per trip, and the percentage contribution of each city's trips to the overall   trips. This report will help in assessing trip volume, pricing efficiency, and each city's contribution to the overall trip count.
 
-  ```WITH city_stats AS (
+  ```sql
+  WITH city_stats AS (
     SELECT
         c.city_name,
         COUNT(*) AS total_trips,
@@ -381,15 +382,15 @@ Business cities drive stable weekday revenue while tourism cities fuel weekend a
     FROM dim_city c 
     JOIN fact_trips t 
         ON c.city_id = t.city_id
-    GROUP BY c.city_name
-)
-SELECT 
+    GROUP BY c.city_name )
+  SELECT 
     city_name,
     total_trips,
     ROUND(total_revenue / total_travelled_distance, 2) AS avg_fare_per_km,
     ROUND(total_revenue / total_trips, 2) AS avg_fare_per_trip,
     ROUND(total_trips*100 / (SELECT COUNT(*) FROM fact_trips), 2) AS contribution_to_total_trips
-FROM city_stats;
+  FROM city_stats;
+  ```
 
   ![](Images/Business-request-1.png)
 
