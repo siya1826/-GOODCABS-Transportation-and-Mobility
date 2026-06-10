@@ -384,13 +384,13 @@ Click Here to view the dashboard: [GoodCabs Live Dashboard](https://app.powerbi.
 
 ## Data Model View
 
-![Data Model](images/data_model.png)
+![Data Model](images /Data Model.png)
 
 ---
 
 ## Home Page View
 
-![Home Page](images/home_page.png)
+![Home Page](images /Home_page.png)
 
 ---
 
