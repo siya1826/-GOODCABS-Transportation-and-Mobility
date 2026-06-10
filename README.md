@@ -378,7 +378,7 @@ Business cities drive stable weekday revenue while tourism cities fuel weekend a
 
 ## Live Dashboard Link
 
-Click Here to view the dashboard:[GoodCabs Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzQ4NzkyM2MtZmU5Yi00ZjU4LWFjNjMtZjI4NjczOWM1NGQxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
+Click Here to view the dashboard: [GoodCabs Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzQ4NzkyM2MtZmU5Yi00ZjU4LWFjNjMtZjI4NjczOWM1NGQxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
 
