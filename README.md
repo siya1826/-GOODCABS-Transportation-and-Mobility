@@ -372,7 +372,7 @@ Business cities drive stable weekday revenue while tourism cities fuel weekend a
 
 * Generate a report that displays the total trips, average fare per km, average fare per trip, and the percentage contribution of each city's trips to the overall   trips. This report will help in assessing trip volume, pricing efficiency, and each city's contribution to the overall trip count.
 
-  ![query1](Images/Business-request-1.png)
+  ![](Images/Business-request-1.png)
 
 ---
 
@@ -383,12 +383,12 @@ Business cities drive stable weekday revenue while tourism cities fuel weekend a
 * If actual trips are less than or equal to target trips, mark it as "Below Target".
 * Additionally, calculate the % difference between actual and target trips to quantify the performance gap.
 
-  ![query2](Images/January_Target_vs_Actual.png)
-  ![query2](Images/February_Target_vs_Actual.png)
-  ![query2](Images/March_Target_vs_Actual.png)
-  ![query2](Images/April_Target_vs_Actual.png)
-  ![query2](Images/May_Target_vs_Actual.png)
-  ![query2](Images/June_Target_vs_Actual.png)
+  ![](Images/January_Target_vs_Actual.png)
+  ![](Images/February_Target_vs_Actual.png)
+  ![](Images/March_Target_vs_Actual.png)
+  ![](Images/April_Target_vs_Actual.png)
+  ![](Images/May_Target_vs_Actual.png)
+  ![](Images/June_Target_vs_Actual.png)
 
 ---
 
@@ -397,7 +397,7 @@ Business cities drive stable weekday revenue while tourism cities fuel weekend a
 * Generate a report that shows the percentage distribution of repeat passengers by the number of trips they have taken in each city. Calculate the percentage of repeat passengers who took 2 trips, 3 trips, and so on, up to 10 trips. Each column should represent a trip count category, displaying the percentage of repeat passengers who fall into that category out of the total repeat passengers for that city.
 * Fields: city_name, 2-Trips, 3-Trips, 4-Trips, 5-Trips, 6-Trips, 7-Trips, 8-Trips, 9-Trips, 10-Trips
   
-  ![query3](Images/Business-request-3.png)
+  ![](Images/Business-request-3.png)
 
 ---
 
@@ -405,8 +405,8 @@ Business cities drive stable weekday revenue while tourism cities fuel weekend a
 
 * Generate a report that calculates the total new passengers for each city and ranks them based on this value. Identify the top 3 cities with the highest number of new passengers as well as the bottom 3 cities with the lowest number of new passengers, categorising them as "Top 3" or "Bottom 3" accordingly.
   
-  ![query4](Images/Business_request_4_top_3_city.png)
-  ![query4](Images/business_request_4_bottom_3_city.png)
+  ![](Images/Business_request_4_top_3_city.png)
+  ![](Images/business_request_4_bottom_3_city.png)
 
 ---
 
@@ -414,7 +414,7 @@ Business cities drive stable weekday revenue while tourism cities fuel weekend a
 
 * Generate a report that identifies the month with the highest revenue for each city. For each city, display the month_name, the revenue amount for that month, and the percentage contribution of that month's revenue to the city's total revenue.
   
-  ![query4](Images/Business_request_5.png)
+  ![](Images/Business_request_5.png)
 
 ---
 
