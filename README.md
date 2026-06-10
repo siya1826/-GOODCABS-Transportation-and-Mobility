@@ -390,25 +390,25 @@ Click Here to view the dashboard: [GoodCabs Live Dashboard](https://app.powerbi.
 
 ## Home Page View
 
-![Home Page](Images /Home_page.png)
+![Home Page](Images/Home_page.png)
 
 ---
 
 ## Trips View
 
-![Trips View](Images /Trip_view.png)
+![Trips View](Images/Trip_view.png)
 
 ---
 
 ## Passenger View
 
-![Passenger View](Images /Passenger_view.png)
+![Passenger View](Images/Passenger_view.png)
 
 ---
 
 ## Target View
 
-![Target View](Images /Target_view.png)
+![Target View](Images/Target_view.png)
 
 ---
 
