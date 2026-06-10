@@ -374,6 +374,42 @@ Business cities drive stable weekday revenue while tourism cities fuel weekend a
 
 ---
 
+# 📊 Dashboard Views
+
+## Live Dashboard Link
+
+🔗 [Click Here]([PASTE_YOUR_POWER_BI_SERVICE_LINK_HERE](https://app.powerbi.com/view?r=eyJrIjoiNzQ4NzkyM2MtZmU5Yi00ZjU4LWFjNjMtZjI4NjczOWM1NGQxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
+
+---
+
+## Data Model View
+
+![Data Model](images/data_model.png)
+
+---
+
+## Home Page View
+
+![Home Page](images/home_page.png)
+
+---
+
+## Trips View
+
+![Trips View](images/trips_view.png)
+
+---
+
+## Passenger View
+
+![Passenger View](images/passenger_view.png)
+
+---
+
+## Target View
+
+![Target View](images/target_view.png)
+
 # 🛠️ Tools Used
 
 * Power BI Desktop
