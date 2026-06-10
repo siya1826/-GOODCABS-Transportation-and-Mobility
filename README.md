@@ -418,6 +418,72 @@ Business cities drive stable weekday revenue while tourism cities fuel weekend a
 
 ---
 
+### Business Request - 6: Repeat Passenger Rate Analysis
+
+* Generate a report that calculates two metrics:
+* Monthly Repeat Passenger Rate: Calculate the repeat passenger rate for each city and month by comparing the number of repeat passengers to the total passengers.
+* City-wide Repeat Passenger Rate: Calculate the overall repeat passenger rate for each city, considering all passengers across months.
+  
+  ![](Images/Lucknow-repeat-passenger.png)
+  ![](Images/Mysore-repeat-passenger.png)
+  ![](Images/Chandigarh-repeat-passenger.png)
+  ![](Images/Coimbatore-repeat-passenger.png)
+  ![](Images/Indore-repeat-passenger.png)
+  ![](Images/Jaipur-repeat-passenger.png)
+  ![](Images/Kochi-repeat-passenger.png)
+  ![](Images/Surat-repeat-passenger.png)
+  ![](Images/Vadodara-repeat-passenger.png)
+  ![](Images/Vishkhapatnam-repeat-passenger.png)
+
+---
+
+1.Top and Bottom Performing Cities Identify the top 3 and bottom 3 cities by total trips over the entire analysis period.
+
+  ![](Images/bottom_3_city_by_total_trips.png)    ![](Images/top_3_city_by_total_trip.png)
+
+---
+
+2.Highest and Lowest Repeat Passenger Rate (RPR%) by City and Month By City: Analyse the Repeat Passenger Rate (RPR%) for each city across the six-month period. Identify the top 2 and bottom 2 cities based on their RPR% to determine which locations have the strongest and weakest rates.
+
+By Month: Similarly, analyse the RPR% by month across all cities and identify the months with the highest and lowest repeat passenger rates
+   
+  ![](Images/top_3_city_by_repeat_passenger%.png)
+  ![](Images/bottom_3_city_by_repeat_passenger_%.png)
+
+  ![](Images/monthly_report_passenger%.png)
+
+---
+
+3.Average Ratings by City and Passenger Type Calculate the average passenger and driver ratings for each city, segmented by passenger type (new vs. repeat). Identify cities with the highest and lowest average ratings.
+   
+  ![](Images/city_driver_passenger_rating.png)
+
+---
+
+4.Average_fare_per_trip and revenue by city
+   
+  ![](Images/city_avg_fare_per_trip.png)
+
+---
+
+5.City wise revenue and average fare per trip based on day type
+   
+  ![](Images/city_weekday_weekend_revenue_split.png)
+
+---
+
+6.Weekday vs Weekend revenue & average fare per trip
+   
+  ![](Images/weekday_weekend_revenue_fare_trip.png)
+
+---
+
+7.Weekday vs Weekend new & repeat passengers
+   
+  ![](Images/weekday_weekend_total_new_repeat_passengers.png)
+
+---
+
 # 📊 Dashboard Views
 
 ## Live Dashboard Link
