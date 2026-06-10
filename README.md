@@ -449,7 +449,6 @@ Business cities drive stable weekday revenue while tourism cities fuel weekend a
    
   ![](Images/top_3_city_by_repeat_passenger%.png)
   ![](Images/bottom_3_city_by_repeat_passenger_%.png)
-
   ![](Images/monthly_report_passenger%.png)
 
 ---
