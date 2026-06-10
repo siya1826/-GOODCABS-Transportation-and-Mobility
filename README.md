@@ -384,7 +384,7 @@ Click Here to view the dashboard: [GoodCabs Live Dashboard](https://app.powerbi.
 
 ## Data Model View
 
-![Data Model](Images /Data_Model.png)
+![Data Model](Images/Data_Model.png)
 
 ---
 
