@@ -455,8 +455,11 @@ Business cities drive stable weekday revenue while tourism cities fuel weekend a
 
 3.Average Ratings by City and Passenger Type Calculate the average passenger and driver ratings for each city, segmented by passenger type (new vs. repeat). Identify cities with the highest and lowest average ratings.
    
-  ![](Images/city_driver_passenger_rating.png)
-
+  ![](Images/city_driver_passenger_rating.png) 
+  ![](Images/top_3_city_by_repeat_passenger%.png)
+  ![](Images/bottom_3_city_by_repeat_passenger_%.png)
+  ![](Images/monthly_report_passenger%.png)
+  
 ---
 
 4.Average_fare_per_trip and revenue by city
